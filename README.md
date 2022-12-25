@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushaman2708
 - 👀 I’m interested in ...becoming a software engineer
-- 🌱 I’m currently learning ...C language
+- 🌱 I’m currently learning ...C++ language and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
